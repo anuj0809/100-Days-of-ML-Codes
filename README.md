@@ -17,4 +17,9 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 2 (30-06-2021) : Naive Bayes mini-project
 - Working on the Naive Bayes mini-project to classify email.
 - Tried really hard to make the python 2.7 code compatible with 3.6 and learnt about `dos2unix` and pickling of data. 
-- Completed the Naive Bayes project with accuracy of 90.24% (Need to improve it!)
+- Completed the Naive Bayes project with accuracy of 90.24% (Need to improve it!).
+
+### Day 3 (01-07-2021) : SVM and Linear Algebra
+- Improved efficiency to 97.869% and completed the mini-project.
+- Started the lesson on Support Vector Machines.
+- Completed Week 1 of Mathematics for [Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning), a course from Imperial College London on Coursera.
