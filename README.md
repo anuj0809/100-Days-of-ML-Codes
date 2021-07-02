@@ -23,3 +23,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Improved efficiency to 97.869% and completed the mini-project.
 - Started the lesson on Support Vector Machines.
 - Completed Week 1 of Mathematics for [Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning), a course from Imperial College London on Coursera.
+
+### Day 4 (03-07-2021) : SVM and Decision Trees
+- Completed the SVM mini-project with 99.08% accuracy using an `rbf` kernel 
+- Started the lesson on Decision Trees
