@@ -27,3 +27,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 4 (02-07-2021) : SVM and Decision Trees
 - Completed the SVM mini-project with 99.08% accuracy using an `rbf` kernel 
 - Started the lesson on Decision Trees
+
+### Day 5 (03-07-2021) : Decision Trees mini-project
+- Working on the Decision tree mini-project
+- Referred to 3Blue1Brown's [Essence of Calculus](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) playlist
