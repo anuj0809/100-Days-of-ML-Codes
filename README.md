@@ -31,3 +31,7 @@ Daily log to track my progress on the 100 days of ML code challenge.
 ### Day 5 (03-07-2021) : Decision Trees mini-project
 - Working on the Decision tree mini-project
 - Referred to 3Blue1Brown's [Essence of Calculus](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) playlist
+- 
+### Day 6 (04-07-2021) Decision Tree(Entropy and Information gain) and KNN 
+- Completed the Decision Tree mini-project
+- Learnt about the K-Nearest Neighbours classifier and implemented the same
