@@ -40,3 +40,8 @@ Daily log to track my progress on the 100 days of ML code challenge.
 - Implemented the KNN classisier after referring to [this](https://towardsdatascience.com/implementing-k-nearest-neighbors-with-scikit-learn-9e4858e231ea) Medium article
 - Watched 2 more videos from 3Blue1Brown's [Essence of Calculus](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) playlist
 - Watched Siraj Raval's [video](https://www.youtube.com/watch?v=T5pRlIbr6gg&index=1&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU) on classifiers
+
+### Day 8 (07-07-2021) RandomForest classifier, Datasets and Questions
+- Completed the lesson on datasets and questions to gain key inferences 
+- Completed the lesson `WEB 3.0` from Siraj Raval's [Decentralized Applications](https://www.youtube.com/watch?v=aPVmd7SyKfQ) playlist
+- Implemented the RandomForest classifier and read up about adaBoost
